@@ -47,3 +47,19 @@ Or undo this operation with:
 Turn off this advice by setting config variable advice.detachedHead to false
 
 HEAD is now at ba75dc3 log_dentro
+
+
+C:\laboratorio_git>git tag v1.0
+
+C:\laboratorio_git>git -d v1.0
+unknown option: -d
+usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           [--config-env=<name>=<envvar>] <command> [<args>]
+
+C:\laboratorio_git>git tag -d v1.0
+Deleted tag 'v1.0' (was c388d8a)
+
+C:\laboratorio_git>git tag v1.0
