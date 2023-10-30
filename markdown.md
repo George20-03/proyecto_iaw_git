@@ -64,3 +64,19 @@ Deleted tag 'v1.0' (was c388d8a)
 
 Cambio klkkkkkkkkkkkkkkkkkkkkkkkkkkkk:\laboratorio_git>git tag v1.0
 
+AHORA SI
+
+
+
+C:\laboratorio_git>git diff
+diff --git a/markdown.md b/markdown.md
+index 064d7a9..202d846 100644
+--- a/markdown.md
++++ b/markdown.md
+@@ -64,3 +64,5 @@ Deleted tag 'v1.0' (was c388d8a)
+
+ Cambio klkkkkkkkkkkkkkkkkkkkkkkkkkkkk:\laboratorio_git>git tag v1.0
+
++AHORA SI
++
+
