@@ -25,3 +25,25 @@ Date:   Mon Oct 30 16:14:22 2023 +0100
     Añadido markdown.md
 
 
+C:\laboratorio_git>git checkout <ba75dc3>
+La sintaxis del comando no es correcta.
+
+C:\laboratorio_git>git checkout ba75dc3
+Note: switching to 'ba75dc3'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at ba75dc3 log_dentro
