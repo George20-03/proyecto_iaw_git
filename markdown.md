@@ -62,11 +62,5 @@ usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
 C:\laboratorio_git>git tag -d v1.0
 Deleted tag 'v1.0' (was c388d8a)
 
-C:\laboratorio_git>git tag v1.0
+Cambio klkkkkkkkkkkkkkkkkkkkkkkkkkkkk:\laboratorio_git>git tag v1.0
 
-
-
-
-
-
-CAMBIO DIFFFFFFFFFFFF
